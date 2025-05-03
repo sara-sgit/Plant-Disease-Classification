@@ -23,6 +23,7 @@ PlantAI is an intelligent system that **classifies tomato plant diseases from up
 - Quick overview of the technology
 - Disease symptom gallery with visual examples
 
+
 <img width="250" alt="Tomato Disease Classification System" src="https://github.com/sara-sgit/Plant-Disease-Classification/blob/main/path%20desc.png" />
 
 
