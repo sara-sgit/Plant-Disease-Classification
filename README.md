@@ -25,17 +25,17 @@ PlantAI is an intelligent system that **classifies tomato plant diseases from up
 
 **Upload** 📤  
    - Upload a clear photo of a tomato leaf
-   - 
+
 **Process** ⚙️  
    - Our AI analyzes the image using 3 deep learning models
    - **Classify** 🔍  
-   Identifies disease from 10 possible categories
+   -Identifies disease from 10 possible categories
 **Display** 💡  
    Shows results with:  
    - Disease name  
 
-<img width="500" alt="Tomato Disease Classification System" src="https://github.com/sara-sgit/Plant-Disease-Classification/blob/main/Protocols%20schema.PNG" />
 
+<img width="500" alt="Tomato Disease Classification System" src="https://github.com/sara-sgit/Plant-Disease-Classification/blob/main/Prediction%20test.png" />
 
 
 ### 📊 **Statistics Section**
@@ -47,14 +47,21 @@ PlantAI is an intelligent system that **classifies tomato plant diseases from up
 - Confusion matrices visualization
 - Processing time benchmarks
 
+### 🔬 **Prediction Protocols**
+
+**Two distinct approaches for disease classification:**
+
+**Protocol 1: Selection → Fusion**  
+   - Performs feature selection on each model individually  
+   - Combines selected features for final classification  
 
 
-- **Image upload interface**
-- **Two prediction protocols**:
-- Protocol 1: Feature selection before fusion
-- Protocol 2: Feature fusion before selection
-    
-- **Visual results display** with confidence metrics
-- **Detailed disease information** for each prediction
-- 
-<img width="500" alt="Tomato Disease Classification System" src="https://github.com/sara-sgit/Plant-Disease-Classification/blob/main/Prediction%20test.png" />
+**Protocol 2: Fusion → Selection**  
+   - Combines all model features first  
+   - Then applies feature selection  
+  
+
+
+
+<img width="500" alt="Tomato Disease Classification System" src="https://github.com/sara-sgit/Plant-Disease-Classification/blob/main/Protocols%20schema.PNG" />
+
