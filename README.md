@@ -23,7 +23,30 @@ PlantAI is an intelligent system that **classifies tomato plant diseases from up
 
 ### 🔮 **Prediction Section**
 
+**Upload** 📤  
+   - Upload a clear photo of a tomato leaf
+   - 
+**Process** ⚙️  
+   - Our AI analyzes the image using 3 deep learning models
+   - **Classify** 🔍  
+   Identifies disease from 10 possible categories
+**Display** 💡  
+   Shows results with:  
+   - Disease name  
+
 <img width="500" alt="Tomato Disease Classification System" src="https://github.com/sara-sgit/Plant-Disease-Classification/blob/main/Protocols%20schema.PNG" />
+
+
+
+### 📊 **Statistics Section**
+
+<img width="500" alt="Tomato Disease Classification System" src="https://github.com/sara-sgit/Plant-Disease-Classification/blob/main/Stat%20details.png" />
+
+- Performance metrics for both protocols
+- Accuracy comparison tables
+- Confusion matrices visualization
+- Processing time benchmarks
+
 
 
 - **Image upload interface**
@@ -35,12 +58,3 @@ PlantAI is an intelligent system that **classifies tomato plant diseases from up
 - **Detailed disease information** for each prediction
 - 
 <img width="500" alt="Tomato Disease Classification System" src="https://github.com/sara-sgit/Plant-Disease-Classification/blob/main/Prediction%20test.png" />
-
-### 📊 **Statistics Section**
-
-<img width="500" alt="Tomato Disease Classification System" src="https://github.com/sara-sgit/Plant-Disease-Classification/blob/main/Stat%20details.png" />
-- Performance metrics for both protocols
-- Accuracy comparison tables
-- Confusion matrices visualization
-- Processing time benchmarks
-
