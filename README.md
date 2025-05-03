@@ -24,10 +24,12 @@ PlantAI is an intelligent system that **classifies tomato plant diseases from up
 ### 🔮 **Prediction Section**
 
 <img width="500" alt="Tomato Disease Classification System" src="https://github.com/sara-sgit/Plant-Disease-Classification/blob/main/Protocols%20schema.PNG" />
+
+
 - **Image upload interface**
 - **Two prediction protocols**:
-  - Protocol 1: Feature selection before fusion
-  - Protocol 2: Feature fusion before selection
+- Protocol 1: Feature selection before fusion
+- Protocol 2: Feature fusion before selection
     
 - **Visual results display** with confidence metrics
 - **Detailed disease information** for each prediction
